@@ -1,0 +1,26 @@
+<div class="main-div">
+    <div id="img1">1
+        <div class="input-group">
+  <div class="form-outline">
+    <input type="search" id="form1" class="form-control" />
+    <label class="form-label" for="form1">Search</label>
+  </div>
+  <button type="button" class="btn btn-primary">
+  <i class="fa fa-refresh" aria-hidden="true"></i>
+  </button>
+</div>
+</div>
+    <div id="img2"><img src="img/slider-3-950x450.jpg" alt="" width="100%"></div>
+    <div id="img3">
+        <img src="img/banner1.jpg" alt="" width="100%">
+        <img src="img/banner2.jpg" alt="" width="100%">
+    </div>
+    
+    <div id="img5">
+        <img src="img/banner3.jpg" alt="" width="100%">
+    </div>
+    
+</div>
+<div class="main-div2">
+
+</div>
